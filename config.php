@@ -32,7 +32,7 @@ return [
     // Disable individual files (only applies if above is 'true').
     'enable_custom_head'     => 'true',
     'enable_custom_body'     => 'false',
-    'enable_custom_body_end' => 'true',
+    'enable_custom_body_end' => 'false',
 
 
     /*
