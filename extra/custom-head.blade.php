@@ -162,7 +162,3 @@ Down below, you can find a few examples using this function:
   unicode-range: U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;
 }
 </style>
-
-<div id="particles-js"></div>
-<script src="https://assets.hails.cc\particlejs\particles.js"></script>
-<script src="https://assets.hails.cc\particlejs\script.js"></script>
