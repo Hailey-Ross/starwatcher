@@ -9,6 +9,10 @@ Find more themes: https://linkstack.org/themes
 *	Theme Author: Hailey Ross
 *	Theme Author URI: https://github.com/Hailey-Ross
 *	Theme License: GPLv3
+*	Source code: https://github.com/Hailey-Ross/starwatcher
+
+*	Original Author: JulianPrieber & LinkStack Team
+*	Original Author URI: https://github.com/JulianPrieber
 *	Original Source code: https://github.com/LinkStackOrg/stargazer
 
 ## Preview:
