@@ -10,6 +10,7 @@ Find more themes: https://linkstack.org/themes
 *	Theme Author URI: https://github.com/Hailey-Ross
 *	Theme License: GPLv3
 *	Source code: https://github.com/Hailey-Ross/starwatcher
+*	Live Demo: https://links.hails.cc/@hailey
 
 ## Original Author credits
 
