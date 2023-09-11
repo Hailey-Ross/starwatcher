@@ -10,7 +10,7 @@ Find more themes: https://linkstack.org/themes
 *	Original Source code: https://github.com/LinkStackOrg/stargazer
 
 ## Preview:
-Coming Soon
+![Preview](/preview.gif)
 
 
 ### Used assets:
