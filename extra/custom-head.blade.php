@@ -166,3 +166,7 @@ Down below, you can find a few examples using this function:
 
 
 </style>
+
+<div id="particles-js"></div>
+<script src="https://assets.hails.cc\particlejs\particles.js"></script>
+<script src="https://assets.hails.cc\particlejs\script.js"></script>
