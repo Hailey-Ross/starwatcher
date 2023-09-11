@@ -1,11 +1,11 @@
 # A LinkStack Theme
 Find more themes: https://linkstack.org/themes
                                                                                                                                                                          
-*	Theme Name: Stargazer FORK Starwatcher
+*	Theme Name: Starwatcher
 *	Theme Version: 0.1
 *	Theme Date: 2023-09-10
-*	Original Theme Author: JulianPrieber & LinkStack Team
-*	Original Theme Author URI: https://github.com/JulianPrieber
+*	Theme Author: Hailey Ross
+*	Theme Author URI: https://github.com/Hailey-Ross
 *	Theme License: GPLv3
 *	Original Source code: https://github.com/LinkStackOrg/stargazer
 
