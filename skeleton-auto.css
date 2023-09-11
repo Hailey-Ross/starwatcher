@@ -67,6 +67,10 @@
         line-height: 24px;
         font-weight: 400;
         background-color: #000;
+        position: relative;	
+        background-image: url(https://assets.hails.cc/i/bg1.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
         font-family: "Roboto";
         color: #FFFFFF;
        }
