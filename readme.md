@@ -11,9 +11,11 @@ Find more themes: https://linkstack.org/themes
 *	Theme License: GPLv3
 *	Source code: https://github.com/Hailey-Ross/starwatcher
 
-*	Original Author: JulianPrieber & LinkStack Team
-*	Original Author URI: https://github.com/JulianPrieber
-*	Original Source code: https://github.com/LinkStackOrg/stargazer
+## Original Author credits
+
+*	Creator: JulianPrieber & LinkStack Team
+*	Link: https://github.com/JulianPrieber
+*	Original Repo: https://github.com/LinkStackOrg/stargazer
 
 ## Preview:
 ![Preview](/preview.gif)
