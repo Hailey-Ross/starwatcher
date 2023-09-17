@@ -1,6 +1,6 @@
 --**WORK IN PROGRESS**--
 
-# A LinkStack Theme
+# Starwatcher Linkstack Theme
 Find more themes: https://linkstack.org/themes
                                                                                                                                                                          
 *	Theme Name: Starwatcher BETA
