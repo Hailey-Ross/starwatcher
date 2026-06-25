@@ -5,7 +5,7 @@ Find more themes: https://linkstack.org/themes
                                                                                                                                                                          
 *	Theme Name: Starwatcher BETA
 *	Theme Version: 0.1b
-*	Theme Date: 2023-09-10
+*	Theme Date: 2026-06-25
 *	Theme Author: Hailey Ross
 *	Theme Author URI: https://github.com/Hailey-Ross
 *	Theme License: GPLv3
@@ -33,4 +33,8 @@ Find more themes: https://linkstack.org/themes
 
 * Built using:
 * https://codepen.io/trishalim/pen/WNEOdWK
+* License: MIT
+
+* Built using:
+* https://github.com/VincentGarreau/particles.js
 * License: MIT
