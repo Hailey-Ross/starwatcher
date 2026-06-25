@@ -4,7 +4,7 @@
 Find more themes: https://linkstack.org/themes
                                                                                                                                                                          
 *	Theme Name: Starwatcher BETA
-*	Theme Version: 0.1a
+*	Theme Version: 0.1b
 *	Theme Date: 2023-09-10
 *	Theme Author: Hailey Ross
 *	Theme Author URI: https://github.com/Hailey-Ross
