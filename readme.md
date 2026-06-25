@@ -22,19 +22,9 @@ Find more themes: https://linkstack.org/themes
 ![Preview](/preview.gif)
 
 
-### Used assets:
-* Built using:
-* https://github.com/dhg/Skeleton
-* License: MIT
+### Used assets
 
-* Built using:
-* https://codepen.io/SuneBear/pen/YzVgebG
-* License: MIT
-
-* Built using:
-* https://codepen.io/trishalim/pen/WNEOdWK
-* License: MIT
-
-* Built using:
-* https://github.com/VincentGarreau/particles.js
-* License: MIT
+* [Skeleton](https://github.com/dhg/Skeleton) (MIT)
+* [SuneBear / YzVgebG](https://codepen.io/SuneBear/pen/YzVgebG) (MIT)
+* [trishalim / WNEOdWK](https://codepen.io/trishalim/pen/WNEOdWK) (MIT)
+* [particles.js](https://github.com/VincentGarreau/particles.js) (MIT)
