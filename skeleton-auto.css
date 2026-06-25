@@ -67,8 +67,8 @@
         line-height: 24px;
         font-weight: 400;
         background-color: #000;
-        position: relative;	
-        background-image: url(https://assets.hails.cc/i/bg1.jpg);
+        position: relative;
+        background-attachment: fixed;
         background-repeat: no-repeat;
         background-size: cover;
         font-family: "Roboto";
@@ -79,6 +79,25 @@
        ::-webkit-scrollbar {
         display: none;
       }
+
+  #particles-js {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    pointer-events: none;
+  }
+
+  #particles-js canvas {
+    background: transparent !important;
+  }
+
+  body > *:not(#particles-js) {
+    position: relative;
+    z-index: 1;
+  }
 
 /* Use this for a fixed background color instead of dark and light mode
     body {
